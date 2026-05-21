@@ -139,10 +139,6 @@ ls /home/conadm
 ---
 
 ## ➡️ Next Lab
-
-**[Lab 22-1b: Grant conadm Full Sudo Rights](./lab-22-1b-sudo-conadm.md)**
-
-## ➡️ Next Lab
 **[Lab 22-1b: Grant conadm Full Sudo Rights](https://github.com/kelvintechnical/Grant-Conadm-Full-Rights)**
 
 ---
